@@ -1,0 +1,22 @@
+@font-face {font-family: Principal;
+            src: url("../fonts/Principal.ttf");}
+
+nav {
+    font-family: 'Principal';
+}
+
+#Images {
+    font-family: 'Principal';
+}
+
+#Sagas {
+    font-family: 'Principal';
+}
+
+#Bosses {
+    font-family: 'Principal';
+}
+
+#Introduction {
+    font-family: 'Principal';
+}
